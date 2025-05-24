@@ -1,0 +1,51 @@
+{
+  "2312.00818v1": {
+    "title": "The perpetual motion machine of AI-generated data and the distraction of ChatGPT-as-scientist",
+    "authors": [
+      "Jennifer Listgarten"
+    ],
+    "summary": "Since ChatGPT works so well, are we on the cusp of solving science with AI?\nIs not AlphaFold2 suggestive that the potential of LLMs in biology and the\nsciences more broadly is limitless? Can we use AI itself to bridge the lack of\ndata in the sciences in order to then train an AI? Herein we present a\ndiscussion of these topics.",
+    "pdf_url": "http://arxiv.org/pdf/2312.00818v1",
+    "published": "2023-11-29"
+  },
+  "2402.00312v1": {
+    "title": "The whack-a-mole governance challenge for AI-enabled synthetic biology: literature review and emerging frameworks",
+    "authors": [
+      "Trond Arne Undheim"
+    ],
+    "summary": "AI-enabled synthetic biology has tremendous potential but also significantly\nincreases biorisks and brings about a new set of dual use concerns. The picture\nis complicated given the vast innovations envisioned to emerge by combining\nemerging technologies, as AI-enabled synthetic biology potentially scales up\nbioengineering into industrial biomanufacturing. However, the literature review\nindicates that goals such as maintaining a reasonable scope for innovation, or\nmore ambitiously to foster a huge bioeconomy don't necessarily contrast with\nbiosafety, but need to go hand in hand. This paper presents a literature review\nof the issues and describes emerging frameworks for policy and practice that\ntransverse the options of command-and control, stewardship, bottom-up, and\nlaissez-faire governance. How to achieve early warning systems that enable\nprevention and mitigation of future AI-enabled biohazards from the lab, from\ndeliberate misuse, or from the public realm, will constantly need to evolve,\nand adaptive, interactive approaches should emerge. Although biorisk is subject\nto an established governance regime, and scientists generally adhere to\nbiosafety protocols, even experimental, but legitimate use by scientists could\nlead to unexpected developments. Recent advances in chatbots enabled by\ngenerative AI have revived fears that advanced biological insight can more\neasily get into the hands of malignant individuals or organizations. Given\nthese sets of issues, society needs to rethink how AI-enabled synthetic biology\nshould be governed. The suggested way to visualize the challenge at hand is\nwhack-a-mole governance, although the emerging solutions are perhaps not so\ndifferent either.",
+    "pdf_url": "http://arxiv.org/pdf/2402.00312v1",
+    "published": "2024-02-01"
+  },
+  "2412.06993v1": {
+    "title": "Toward AI-Driven Digital Organism: Multiscale Foundation Models for Predicting, Simulating and Programming Biology at All Levels",
+    "authors": [
+      "Le Song",
+      "Eran Segal",
+      "Eric Xing"
+    ],
+    "summary": "We present an approach of using AI to model and simulate biology and life.\nWhy is it important? Because at the core of medicine, pharmacy, public health,\nlongevity, agriculture and food security, environmental protection, and clean\nenergy, it is biology at work. Biology in the physical world is too complex to\nmanipulate and always expensive and risky to tamper with. In this perspective,\nwe layout an engineering viable approach to address this challenge by\nconstructing an AI-Driven Digital Organism (AIDO), a system of integrated\nmultiscale foundation models, in a modular, connectable, and holistic fashion\nto reflect biological scales, connectedness, and complexities. An AIDO opens up\na safe, affordable and high-throughput alternative platform for predicting,\nsimulating and programming biology at all levels from molecules to cells to\nindividuals. We envision that an AIDO is poised to trigger a new wave of\nbetter-guided wet-lab experimentation and better-informed first-principle\nreasoning, which can eventually help us better decode and improve life.",
+    "pdf_url": "http://arxiv.org/pdf/2412.06993v1",
+    "published": "2024-12-09"
+  },
+  "2501.13135v1": {
+    "title": "Applications and Challenges of AI and Microscopy in Life Science Research: A Review",
+    "authors": [
+      "Himanshu Buckchash",
+      "Gyanendra Kumar Verma",
+      "Dilip K. Prasad"
+    ],
+    "summary": "The complexity of human biology and its intricate systems holds immense\npotential for advancing human health, disease treatment, and scientific\ndiscovery. However, traditional manual methods for studying biological\ninteractions are often constrained by the sheer volume and complexity of\nbiological data. Artificial Intelligence (AI), with its proven ability to\nanalyze vast datasets, offers a transformative approach to addressing these\nchallenges. This paper explores the intersection of AI and microscopy in life\nsciences, emphasizing their potential applications and associated challenges.\nWe provide a detailed review of how various biological systems can benefit from\nAI, highlighting the types of data and labeling requirements unique to this\ndomain. Particular attention is given to microscopy data, exploring the\nspecific AI techniques required to process and interpret this information. By\naddressing challenges such as data heterogeneity and annotation scarcity, we\noutline potential solutions and emerging trends in the field. Written primarily\nfrom an AI perspective, this paper aims to serve as a valuable resource for\nresearchers working at the intersection of AI, microscopy, and biology. It\nsummarizes current advancements, key insights, and open problems, fostering an\nunderstanding that encourages interdisciplinary collaborations. By offering a\ncomprehensive yet concise synthesis of the field, this paper aspires to\ncatalyze innovation, promote cross-disciplinary engagement, and accelerate the\nadoption of AI in life science research.",
+    "pdf_url": "http://arxiv.org/pdf/2501.13135v1",
+    "published": "2025-01-22"
+  },
+  "2505.06108v3": {
+    "title": "LLMs Outperform Experts on Challenging Biology Benchmarks",
+    "authors": [
+      "Lennart Justen"
+    ],
+    "summary": "This study systematically evaluates 27 frontier Large Language Models on\neight biology benchmarks spanning molecular biology, genetics, cloning,\nvirology, and biosecurity. Models from major AI developers released between\nNovember 2022 and April 2025 were assessed through ten independent runs per\nbenchmark. The findings reveal dramatic improvements in biological\ncapabilities. Top model performance increased more than 4-fold on the\nchallenging text-only subset of the Virology Capabilities Test over the study\nperiod, with OpenAI's o3 now performing twice as well as expert virologists.\nSeveral models now match or exceed expert-level performance on other\nchallenging benchmarks, including the biology subsets of GPQA and WMDP and\nLAB-Bench CloningScenarios. Contrary to expectations, chain-of-thought did not\nsubstantially improve performance over zero-shot evaluation, while extended\nreasoning features in o3-mini and Claude 3.7 Sonnet typically improved\nperformance as predicted by inference scaling. Benchmarks such as PubMedQA and\nthe MMLU and WMDP biology subsets exhibited performance plateaus well below\n100%, suggesting benchmark saturation and errors in the underlying benchmark\ndata. The analysis highlights the need for more sophisticated evaluation\nmethodologies as AI systems continue to advance.",
+    "pdf_url": "http://arxiv.org/pdf/2505.06108v3",
+    "published": "2025-05-09"
+  }
+}
